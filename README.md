@@ -1,2 +1,2 @@
 # BUPS
-Website of University of Barishal
+Website of Barishal University of Photographic Society
