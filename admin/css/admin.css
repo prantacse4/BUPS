@@ -1,0 +1,30 @@
+.div1 table td {
+    height: 50px;
+    background: #ddd;
+    font-size: 20px;
+}
+.bxc table td {
+    border: 1px solid black;
+    width: 193px;
+    
+    font-family: Century Gothic;
+    text-align: center;
+}
+.div2 table td{
+font-size: 12px;
+}
+.div2 p {
+    background: #418053;
+    color: white;
+    height: 22px;
+    width: 71px;
+    padding-top: 3px;
+    margin-left: 55px;
+    border-radius: 5px;
+}
+.div2 p:hover {
+    background: #0b6123;
+}
+.div2 a{
+	text-decoration: none;
+}

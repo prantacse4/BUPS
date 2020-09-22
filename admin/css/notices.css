@@ -1,0 +1,33 @@
+h1{font-size: 20px;
+    font-family: Century Gothic;
+}
+.notice{
+font-family: arial;
+}
+.btn {
+    border: 1px solid #FFC300;
+    background:#1b5e20;
+    color: white;
+    padding: 9px;
+    font-family: arial;
+    font-size: 18px;
+    width: 89px;
+    border-radius: 11px;
+}
+.btn:hover{
+	background: #2e7d32;
+}
+textarea {
+    border: 1px solid #64b5f6;
+    border-radius: 5px;
+    padding-left: 12px;
+    height: 115px;
+    width: 445px;
+    margin-top: 11px;
+    font-size: 17px;
+    padding-top: 7px;
+    margin-bottom: 12px;
+    font-family: arial;
+}
+
+textarea:focus{border:2px solid #64b5f6;}

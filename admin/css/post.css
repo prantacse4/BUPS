@@ -1,0 +1,26 @@
+.notice{
+	border:1px solid black;
+	width: 70%;
+	border-radius: 4px;
+}
+h3{
+	color: #0288d1;
+}
+input {
+    border: 1px solid #64b5f6;
+    border-radius: 5px;
+    padding-left: 10px;
+    height: 39px;
+    width: 445px;
+    margin-top: 11px;
+    font-size: 17px;
+    padding-top: 0px;
+    margin-bottom: 12px;
+    font-family: arial;
+}
+h1 {
+    font-size: 25px;
+    font-family: arial;
+    color: #4fc3f7;
+}
+input:focus{border:2px solid #64b5f6;}

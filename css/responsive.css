@@ -1,0 +1,303 @@
+@media screen and (max-width:1506px){
+	.sonaton{
+		font-size: 26px;
+	}
+	.header img {
+    height: 74px;
+    width: 383px;
+    margin-left: 13%;
+    margin-top: 1%;
+}
+.footer img {
+    float: left;
+    height: 40%;
+    width: 16%;
+    margin-left: 13%;
+    margin-top: 2%;
+}
+.navbar {
+    width: 38%;
+    margin-top: 0%;
+    padding: 0%;
+}
+}
+
+@media screen and (max-width:1306px){
+.navbar {
+    width: 42%;}
+    .header img {
+    height: 62px;
+    width: 370px;
+    margin-left: 13%;
+    margin-top: 1%;
+}
+.sonaton {
+    font-size: 24px;
+}.navbar ul li {
+    margin: 0px;
+        margin-left: 0px;
+    margin-left: 0px;
+    padding: 0px;
+    list-style: none;
+    float: left;
+    width: 94px;
+    background: #18572A;
+    color: #FEFE48;
+    border: 1px solid #9e9e9e;
+    margin-left: 3px;
+    border-radius: 7px;
+    height: 31px;
+    font-size: 16px;}
+.navbar {
+    margin-top: 0%;
+    padding: 0%;
+    margin-left: 8%;
+}.header {
+    width: 100%;
+    background: #18572A;
+    height: 220px;
+}.footer h2 {
+    float: left;
+    margin-left: 8%;
+    margin-top: 1%;
+    font-size: 21px;
+}
+.footer img {
+    float: left;
+    height: 48px;
+    width: 173px;
+    margin-left: 13%;
+    margin-top: 2%;
+}
+ }
+
+
+
+ @media screen and (max-width:940px){
+.header img {
+    height: 36px;
+    width: 228px;
+    margin-left: 13%;
+    margin-top: 1%;
+}
+.sonaton {
+    font-size: 19px;
+}
+.navbar ul li {
+width: 69px;
+height: 27px;
+font-size: 13px;
+
+}
+.header {
+    width: 100%;
+    background: #18572A;
+    height: 180px;
+}
+.footer img {
+    float: left;
+    height: 30px;
+    width: 167px;
+    margin-left: 13%;
+    margin-top: 2%;
+}
+.footer h2 {
+    float: left;
+    margin-left: 4%;
+    margin-top: 1%;
+    font-size: 17px;
+}
+.footer p {
+    float: right;
+    font-size: 12px;
+    color: #FFDB05;
+    margin-top: 85px;
+    margin-right: 13px;
+}
+}
+ @media screen and (max-width:708px){
+
+.footer img {
+    float: left;
+    height: 19px;
+    width: 111px;
+    margin-left: 13%;
+    margin-top: 2%;
+}.footer {
+    border-top: 3px solid #FFDB05;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background: #333;
+    height: 75px;
+    padding: 20px 0px;
+}
+.footer h2 {
+    float: left;
+    margin-left: 4%;
+    margin-top: 3%;
+    font-size: 11px;
+}
+.footer p {
+    float: right;
+    font-size: 8px;
+    color: #FFDB05;
+    margin-top: 52px;
+    margin-right: 21px;
+}
+.navbar li:hover {
+    background: #0F4E21;
+
+    border: 1px solid #bdbdbd;
+}
+.header img {
+    height: 30px;
+    width: 180px;
+    margin-left: 33%;
+    margin-top: 1%;
+}
+.sonaton {
+    font-size: 15px;
+}
+.navbar {
+    width: 19%;
+}
+.header {
+    width: 100%;
+    background: #18572A;
+    height: 224px;
+}
+ }
+
+
+
+ @media screen and (max-width:1420px){
+
+.image {
+    float: right;
+
+    width: 23%;
+    height: 229px;
+    margin-right: 26px;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-radius: 10px;
+}
+
+}
+
+
+ @media screen and (max-width:1274px){
+
+.profile {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding-top: 26px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    width: 82%;
+}.profile h2 {
+    font-family: Century Gothic;
+    font-size: 25px;
+    margin-left: 235px;
+}
+.profile table td {
+    font-size: 17px;
+    font-family: Century Gothic;
+    padding-bottom: 10px;
+    padding-left: 34px;
+}
+.profile table {
+    margin-left: 262px;
+}
+.image img {
+    height: 134px;
+    width: 159px;
+    border-radius: 7px;
+    margin-top: 8px;
+}
+.image {
+    float: right;
+    width: 20%;
+    height: 197px;
+    margin-right: 20px;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-radius: 5px;
+}
+#updatebtn {
+    background: #18572A;
+    height: 22px;
+    width: 82px;
+    border-radius: 6px;
+    padding: 3px;
+}
+#updatebtn a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+}
+
+
+
+ @media screen and (max-width:1020px){
+
+
+
+.image {
+    float: left;
+    background: #fff;
+    width: 20%;
+    height: 197px;
+    margin-left: 43%;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-radius: 5px;
+   
+}
+.profile table {
+    margin-left: 144px;
+}
+.profile h2 {
+    font-family: Century Gothic;
+    font-size: 25px;
+
+    color: white;
+}
+
+    }
+
+
+     @media screen and (max-width:722px){
+.profile h2 {
+    font-family: Century Gothic;
+    font-size: 0px;
+    color: white;
+}.image img {
+    height: 126px;
+    width: 131px;
+    border-radius: 87px;
+    margin-top: 9px;
+}
+#lld{
+    color: white;
+}.profile table {
+    margin-left: 77px;
+}.image {
+    float: left;
+    background: #fff;
+    width: 20%;
+    height: 197px;
+    margin-left: 36%;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-radius: 5px;
+}.profile table td {
+    font-size: 15px;
+    font-family: Century Gothic;
+    padding-bottom: 10px;
+    padding-left: 34px;
+}
+
+     }

@@ -1,0 +1,36 @@
+.members{
+	margin:0px;
+	padding:0px;
+}
+.members table{margin:0px;
+	padding:0px;
+}
+.members table tr, td {
+    border: 1px solid black;
+    width: 150px;
+    font-size: 19px;
+    font-family: Century Gothic;
+    text-align: center;
+}
+.mem1 table td{
+	background: #ddd;
+
+}
+.bx1{
+	margin-top: 10px;
+
+}
+table p{
+	font-size: 17px;
+}
+.mem2 table td{
+
+}
+#nbfs{
+	text-decoration: none;
+	color:#1565c0;
+}
+#nbfs:hover{
+	text-decoration: underline;
+	color: #0d47a1;
+}

@@ -1,0 +1,29 @@
+.box {
+    height: 100%;
+    width: 74%;
+    background: #ddd;
+    margin-left: 13.5%;
+    margin-right: 13.5%;
+    margin-top: 1px;
+    padding: 0%;
+}
+.box p{
+	padding:0px;
+	margin: 0px;
+}
+.index{
+
+	border:1px solid black;
+	padding: 0px;
+	background: #ddd;
+}
+.nts {
+    height: 100%;
+    width: 69%;
+    line-height: 29px;
+    font-size: 17px;
+    margin-bottom: 78px;
+}
+.nts p{
+    text-align: justify;
+}

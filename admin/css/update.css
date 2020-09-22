@@ -1,0 +1,52 @@
+.img{
+	background: white;
+}
+.btnt{
+
+}
+.btnt {
+
+    margin-top: 24px;
+
+}
+
+.btn{background: #18572A;
+    height: 37px;
+    width: 92px;
+    border-radius: 6px;
+    padding: 5px;
+color:white;
+font-size: 20px;}
+.btn:hover{background: #024114;}
+table td{}
+input {
+    width: 199px;
+    height: 25px;
+    padding-left: 8px;
+    border: 1px solid #c0bfbf;
+}
+input:focus{
+	border:2px solid #64b5f6;
+}
+input:hover{
+	border:1px solid #64b5f6;
+}
+#sgn:hover{
+	color:red;
+}
+
+#imgs {
+    height: 29px;
+    width: 33px;
+}
+
+.tbl td {
+    padding-left: 18px;
+    padding-bottom: 15px;
+    padding-top: 16px;
+}
+.tbl input {
+    height: 45px;
+    width: 269px;
+    border-radius: 4px;
+}
